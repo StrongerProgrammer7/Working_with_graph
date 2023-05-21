@@ -1,0 +1,10 @@
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\bin\Debug\LB14-3.exe.config
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\bin\Debug\LB14-3.exe
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\bin\Debug\LB14-3.pdb
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14-3.csprojAssemblyReference.cache
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14_3.Form1.resources
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14_3.Properties.Resources.resources
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14-3.csproj.GenerateResource.cache
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14-3.csproj.CoreCompileInputs.cache
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14-3.exe
+C:\Users\Knight\Documents\C#\LB14-3\LB14-3\obj\Debug\LB14-3.pdb

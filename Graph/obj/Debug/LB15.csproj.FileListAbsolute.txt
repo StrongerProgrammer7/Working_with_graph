@@ -1,0 +1,13 @@
+C:\Users\Knight\Documents\C#\LB15\LB15\bin\Debug\LB15.exe.config
+C:\Users\Knight\Documents\C#\LB15\LB15\bin\Debug\LB15.exe
+C:\Users\Knight\Documents\C#\LB15\LB15\bin\Debug\LB15.pdb
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.csprojAssemblyReference.cache
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.Form1.resources
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.Properties.Resources.resources
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.csproj.GenerateResource.cache
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.csproj.CoreCompileInputs.cache
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.csproj.CopyComplete
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.exe
+C:\Users\Knight\Documents\C#\LB15\LB15\obj\Debug\LB15.pdb
+C:\Users\Knight\Documents\C#\LB15\LB15\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Knight\Documents\C#\LB15\LB15\bin\Debug\Microsoft.Pex.Framework.xml
